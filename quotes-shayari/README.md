@@ -22,7 +22,7 @@ This app is ideal for clients or businesses who want to launch a content-based a
 
 | Screenshot1 | Screenshot2 | Screenshot3 | Screenshot4 |
 |-------------|------------|------------|------------|
-| ![screenshot1](screenshots/screenshot1.jpg) | ![screenshot2](screenshots/screenshot2.jpg) | ![screenshot3](screenshots/screenshot3.jpg) | ![screenshot4](screenshots/screenshot4.jpg) |
+| ![screenshot1](screenshots/screenshot1.webp) | ![screenshot2](screenshots/screenshot2.webp) | ![screenshot3](screenshots/screenshot3.webp) | ![screenshot4](screenshots/screenshot4.webp) |
 
 
 ---
